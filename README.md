@@ -19,5 +19,3 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 
   python sentiment_analyzer.py
   
-  
-The blog post related to the repo https://medium.freecodecamp.org/how-to-build-a-twitter-sentiments-analyzer-in-python-using-textblob-948e1e8aae14
